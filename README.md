@@ -1,2 +1,3 @@
-# desafio-gama2
-Projeto do Hiring Coders #2
+# Desafio #1: Gama Academy
+
+# Hiring Coders Project #2
