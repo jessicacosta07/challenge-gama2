@@ -1,4 +1,4 @@
-# Desafio #1: Gama Academy
+# Desafio #2: Gama Academy
 
 # Hiring Coders Project #2
 
