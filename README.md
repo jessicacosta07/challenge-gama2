@@ -20,3 +20,5 @@ Site:
 ![image](https://user-images.githubusercontent.com/65916297/126837872-fa323c94-f732-4710-871a-edac67d07d56.png)
 
 ## Cadastro de Produto
+
+![image](https://user-images.githubusercontent.com/65916297/126837933-59e5ef9f-5459-41f1-9708-ed1694234a71.png)
