@@ -17,7 +17,6 @@ form.addEventListener('submit', (e) => {
     let converteData = JSON.stringify(data)
 
     localStorage.setItem('lead', converteData)
-    let carregar = `<p>Aguarde por favor!</p>`
     let finalizar = `<p>Finalizado</p>`
     let content = document.getElementById('content')
     content.innerHTML = carregar
