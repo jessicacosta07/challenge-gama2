@@ -3,10 +3,22 @@ const form = document.getElementById('form')
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     let nome = document.getElementById('nome').value
+    let dataNasc = document.getElementById('dataNasc').value
     let email = document.getElementById('email').value
+    let telefone = document.getElementById('telefone').value
+    let rua = document.getElementById('rua').value
+    let uf = document.getElementById('uf').value
+    let numero = document.getElementById('numero').value
+    let cep = document.getElementById('cep').value
     let data = {
         nome,
+        dataNasc,
         email,
+        telefone,
+        rua,
+        uf,
+        numero,
+        cep,
     }
     let converteData = JSON.stringify(data)
 

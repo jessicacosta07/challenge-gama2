@@ -3,10 +3,16 @@ const form = document.getElementById('form')
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     let nome = document.getElementById('nome').value
-    let email = document.getElementById('email').value
+    let codigo = document.getElementById('codigo').value
+    let descricao = document.getElementById('descricao').value
+    let quantidade = document.getElementById('quantidade').value
+    let preco = document.getElementById('preco').value
     let data = {
         nome,
-        email,
+        codigo,
+        descricao,
+        quantidade,
+        preco,
     }
     let converteData = JSON.stringify(data)
 
