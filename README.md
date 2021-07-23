@@ -17,6 +17,6 @@ Site:
 
 ## Cadastro de Cliente
 
-![image](https://user-images.githubusercontent.com/65916297/126837677-6c53f408-b1d3-428f-ad98-120eb0b2a935.png)
+![image](https://user-images.githubusercontent.com/65916297/126837872-fa323c94-f732-4710-871a-edac67d07d56.png)
 
 ## Cadastro de Produto
