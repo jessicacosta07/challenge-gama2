@@ -11,14 +11,10 @@ Site: https://gestao-de-cadastro-challenge.netlify.app/
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Página Inicial
+## Pages
 
 ![image](https://user-images.githubusercontent.com/65916297/126837379-2f607822-8848-4c4f-9b24-d9b932127539.png)
 
-## Cadastro de Cliente
-
 ![image](https://user-images.githubusercontent.com/65916297/126837872-fa323c94-f732-4710-871a-edac67d07d56.png)
-
-## Cadastro de Produto
 
 ![image](https://user-images.githubusercontent.com/65916297/126837933-59e5ef9f-5459-41f1-9708-ed1694234a71.png)
